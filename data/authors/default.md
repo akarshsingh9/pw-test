@@ -1,12 +1,11 @@
 ---
-name: Tails Azimuth
+name: Akarsh Singh
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+company: Studying @ SCMHRD
+email: akarsh@duck.com
+twitter: https://twitter.com/_akarshsingh
+linkedin: https://www.linkedin.com/in/akarshsingh
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
